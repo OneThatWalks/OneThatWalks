@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onethatwalks" alt="onethatwalks" /> </p>
 
-- 🔭 I’m currently working on [FluentDb](https://github.com/OneThatWalks/FluentDb)
+- 🔭 I’m currently working on Industrial IoT solutions with Generac at Blue Pillar
 
 - 🌱 I’m currently learning **Azure IoT Development**
 
-- 👯 I’m looking to collaborate on [vscode](https://github.com/microsoft/vscode)
-
-- 👨‍💻 All of my projects are available at [https://oneshort.dev](https://oneshort.dev)
-
-- 💬 Ask me about **.NET and Typescript**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **darrien.singleton@aol.com**
 
